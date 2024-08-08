@@ -1,21 +1,21 @@
-1.3
+1.4
 B1
 Cultura
 Conosci "Il piccolo Principe"...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/a5e49f35b7c24fffa88510d953c77039?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Generico
+Verbi
 Mi serve... Ho bisogno di...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/683d2eb152d145d197827f1652614876?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 Cultura
-Generico
+Se sei italiano dici
 Se sei italiano dici...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/da781ca9f03b47748e9a341cb24f97dd?themeId=52&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 Extra
-Generico
+Vacanze
 In valigia porto...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/3a406af1946b480996b6e40b2364dc86?themeId=52&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
@@ -75,7 +75,7 @@ Non si fanno paragoni. Rispondi...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/60a9636c05c344c48b612502e4809d10?themeId=43&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Generico
+Aggettivi
 Organizza in base al genere...XY o XX?
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/be06ac1d64c149b1a8a433764a611eb1?themeId=1&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
@@ -100,12 +100,12 @@ Il bar in Italia. Indovina...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/3d5c333448954c7484f0c948ebffa91f?themeId=48&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 Extra
-Generico
+Se sei italiano dici
 Modi di dire: andare
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/3d5c333448954c7484f0c948ebffa91f?themeId=48&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 B1
-Generico
+Andare
 Ci vai o ci vieni? Scegli...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/91178b31cb4b4d23bb141f233aee3f99?themeId=21&templateId=69&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
