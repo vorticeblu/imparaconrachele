@@ -1,4 +1,4 @@
-1.10
+1.11
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -30,17 +30,12 @@ Organizza in base al genere...XY o XX?
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/be06ac1d64c149b1a8a433764a611eb1?themeId=1&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Al Bar
+Al Bar (disponibile solo su App)
 Al bar: ti offro...
 Esegui questo gioco per esercitarti al bar in Italia
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/049de3e617b1456e92755a2988752a43?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Al Bar
-Il bar in Italia. Indovina...
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/3d5c333448954c7484f0c948ebffa91f?themeId=48&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Al Bar
+Al Bar (disponibile solo su App)
 Che Italia sarebbe senza i bar...indovina!
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/3d5c333448954c7484f0c948ebffa91f?themeId=48&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
@@ -50,8 +45,8 @@ Articoli indeterminativi. Indovina... XY o XX?
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/623c8981a127453db4d8c617b96f7c32?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Articoli
-Ripassiamo gli articoli le eccezioni. Colpisci...
+Articoli (disponibile solo su App)
+L'articolo in italiano e le sue eccezioni
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/9f8658e3ee4a4d759757d9d00ee37a18?themeId=22&templateId=45&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
@@ -70,7 +65,7 @@ Qual è l'articolo determinativo corretto? Clicca...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/666d8bb5601746c4a52c1d7ad014f432?themeId=1&templateId=75&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Articoli
+Articoli (disponibile solo su App)
 La regola della e finale non c'è? Che problema c'è!
 Esegui questo gioco intuitivo per memorizzare facilmente le eccezioni di genere
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/6d858bea24b9470a9f58a35963b0fa7c?themeId=43&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
