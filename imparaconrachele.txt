@@ -1,4 +1,4 @@
-1.9
+1.10
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -6,9 +6,9 @@ Esegui questo gioco per esercitarti a descrivere oggetti e persone
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/1f35a146aff546dca1adc8816547f08d?themeId=46&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
 Aggettivi
-Cos'è questo? Prova a indovinare e gira...
-Esegui questo gioco per memorizzare piccole frasi
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/1e3b385c5bfe48f7b63a36b9523f562e?themeId=1&templateId=75&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+Cosa è questo/a?
+Esegui questo gioco per imparare ad utilizzare correttamente gli aggettivi dimostrativi
+ <iframe style="max-width:100%" src="https://wordwall.net/it/embed/e3fcc7e336b34a5484662222d60b6186?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
 Aggettivi
 Aggettivi e contrari. Trascina...
@@ -70,6 +70,11 @@ Qual è l'articolo determinativo corretto? Clicca...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/666d8bb5601746c4a52c1d7ad014f432?themeId=1&templateId=75&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
+Articoli
+La regola della e finale non c'è? Che problema c'è!
+Esegui questo gioco intuitivo per memorizzare facilmente le eccezioni di genere
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/6d858bea24b9470a9f58a35963b0fa7c?themeId=43&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
 Avverbi
 Riflessivi. Quanto spesso? Clicca...
 Esegui questo gioco per esercitarti nella grammatica italiana. 
@@ -100,16 +105,6 @@ Le parole "false amiche". Crea la tua frase comica...
 Esegui questo gioco per esercitarti nell'uso delle parole simili
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/112ff40abc06446897621c6e11a51909?themeId=48&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Il tempo
-Quanti ne abbiamo oggi? Clicca...
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/b8898e8048744011ae02647b2d071fb1?themeId=62&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Il tempo
-Come esprimere le date in italiano. Impara...
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/1830d9b86992401eb7ba1497d74b8c1c?themeId=22&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
 Domande
 Avete domande? Scegli il pronome corretto...
 Esegui questo gioco per esercitarti nella grammatica italiana.
@@ -139,6 +134,41 @@ I suoni in italiano
 L'alfabeto dei verbi in italiano. Collega...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/7f200e9bcf7b4af188fd08e7cde4ca14?themeId=44&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Il tempo
+Quanti ne abbiamo oggi? Clicca...
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/b8898e8048744011ae02647b2d071fb1?themeId=62&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Il tempo
+Come esprimere le date in italiano. Impara...
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/1830d9b86992401eb7ba1497d74b8c1c?themeId=22&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Il tempo
+Come misuri il tempo che passa?
+Esegui questo gioco per esercitarti nel parlare del tempo
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/5bc2342f659e424ea779d479fb45eff4?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Il tempo
+Conosci i mesi in italiano? Mettiti alla prova...
+Esegui questo gioco per imparare i mesi dell'anno
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/9ed8ea7306954cbfab8be805d4fdc877?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Il tempo
+Che ora è? Che ore sono?
+Esegui questo gioco se vuoi chiedere l'ora in Italia
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/0e5245634e4d40cebd4d4682a67efef4?themeId=46&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Lavorativo (per iPad)
+Tecnologia: Si può/Hai bisogno di/Ci vuole. Raggruppa...
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/4276fe15a024480d80796420e17ad85d?themeId=43&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Negazione
+Anche o neanche?
+Esegui questo gioco per esercitarti a negare in italiano
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/7bac9e1619bd4da99a7e354f056a357b?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
 Numeri
 Che ore sono? Che ora è?
@@ -195,6 +225,16 @@ Sapete mettere la preposizione giusta, al posto giusto, al tempo giusto??? Gioca
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/4411263720f0457587cc44020df631f8?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
+Preposizioni (per iPad)
+Il taboo al contrario. Collega...
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/7dea92cb23af4c05b23b5f15482b0e72?themeId=48&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Preposizioni (per iPad)
+Noi sappiamo ciò che possiamo pensare e ricordare...
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/d570ef78a220464a862dbbf61b1623c3?themeId=21&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
 Presentarsi
 Il Taboo al contrario. Raggruppa...
 Esegui questo gioco per esercitarti a parlare un po'di te.
@@ -244,6 +284,11 @@ Pronomi
 Quanti anni hai? Troppi per te!
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/00cdcea293c94aba839ddc1ecec4f1e5?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Proverbi
+Se sei italiano dici...
+Esegui questo gioco se vuoi imparare a parlare come un italiano
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/c83fc8468ac1486fb4e77bdf147ad33d?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
 Saluti
 Tanti saluti italiani
@@ -360,20 +405,30 @@ Cosa fai di bello nel fine settimana?
 Esegui questo gioco per esercitarti con le attività del tempo libero
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/c804e767c6034f80b96b151e354236ba?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Lavorativo (per iPad)
-Tecnologia: Si può/Hai bisogno di/Ci vuole. Raggruppa...
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/4276fe15a024480d80796420e17ad85d?themeId=43&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+Verbi
+Che cosa fanno? Riordina...
+Esegui questo gioco mettendo in sequenza le parole
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/02db1548abe04833ac47bed5040b190c?themeId=45&templateId=72&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Preposizioni (per iPad)
-Il taboo al contrario. Collega...
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/7dea92cb23af4c05b23b5f15482b0e72?themeId=48&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+Verbi
+Mi piace anche o neanche?
+Esegui questo gioco per esercitarti nella grammatica italiana
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/d059839ced0f458c8448dfcca77eac47?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Preposizioni (per iPad)
-Noi sappiamo ciò che possiamo pensare e ricordare...
+Verbi
+Devi, vuoi, puoi?
+Esegui questo gioco per esercitarti con i verbi modali
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/4e81dcb6eca0409f90a75bb10014ea37?themeId=1&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Verbi (per iPad)
+Taboo al contrario. Mi piace, non mi piace, mi piacciono, non mi piacciono
 Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/d570ef78a220464a862dbbf61b1623c3?themeId=21&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/83543ceef3f8447b8ac3b20d8d0d99b2?themeId=43&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Verbi (per iPad)
+Taboo al contrario. Sei...?Abiti...?Parli...? 
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/4fe73508deda47b18c8b9d5135dcd6ea?themeId=43&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1 Extra
 Conversazione
 Ti ricordi ancora l'italiano?
@@ -389,6 +444,21 @@ Conversazione
 Sei andato in vacanza...? 
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/90b562b0e77d4f5182836f93322cf1df?themeId=43&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1 Extra
+Conversazione
+Il calendario perpetuo
+Esegui questo gioco per esercitarti nel conversare
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/6a89d25667324ec889cc76a1249fd8ed?themeId=46&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1 Extra
+Conversazione
+Sì, viaggiare
+Esegui questo gioco per esercitarti nella grammatica italiana
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/320284228ddf4edc9310270461af848c?themeId=48&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1 Extra
+Conversazione
+Una parola o forse due in italiano
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/966ea63c37fd4dee9003adf4621aa4cc?themeId=48&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1 Extra
 Domande
 C'è o ci sono e rispondi alla domanda...
@@ -524,16 +594,6 @@ Domande
 Quali sono i giorni della settimana? Indovina...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/184775cff57c4c3d9562e0c42557feb6?themeId=51&templateId=8&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Verbi (per iPad)
-Taboo al contrario. Mi piace, non mi piace, mi piacciono, non mi piacciono
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/83543ceef3f8447b8ac3b20d8d0d99b2?themeId=43&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Verbi (per iPad)
-Taboo al contrario. Sei...?Abiti...?Parli...? 
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/4fe73508deda47b18c8b9d5135dcd6ea?themeId=43&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A2
 Aggettivi
 Aggettivi indefiniti. Scegli...
@@ -564,6 +624,46 @@ Che Italia sarebbe se...
 Che Italia sarebbe senza i Fonzies. Provaci...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/673b740e72624193817d5b2bf171ed31?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Lavorativo (per iPad)
+Cloze in 5 minuti, passato prossimo o imperfetto...
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/771ff0ece3034832beea271ce69da64e?themeId=50&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Lavorativo (per iPad)
+Cloze passato prossimo e imperfetto e preposizioni
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/771ff0ece3034832beea271ce69da64e?themeId=50&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Lavorativo (per iPad)
+Cloze tecnologico
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/cbf5f9dec3cc42fcaf48b2f47cd9f682?themeId=41&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Lavorativo (per iPad)
+Come candidarsi per una nuova opportunità lavorativa
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/f1551cd602324bba86220df7b5dfa0ca?themeId=4&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Lavorativo (per iPad)
+E-mail lavorativa richiesta appuntamento
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/d785f90d27e64f8a93fa84e2c79701cb?themeId=44&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Lavorativo (per iPad)
+Lettera formale commerciale
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/6f19e6550221406f977a1490cf674348?themeId=4&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Lavorativo (per iPad)
+Lettera formale commerciale confermare un appuntamento
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/4c1ec22a1a3e4919af08346c65671a80?themeId=4&templateId=36&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Lavorativo (per iPad)
+Proposta commerciale
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/070233e35ab54edea477a831fba88fd5?themeId=4&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A2
 Preposizioni
 Preposizioni - Qual è la regola? Intuiscila...
@@ -650,45 +750,10 @@ Crea una storia...
 Esegui questo gioco per esercitarti nella lingua italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/f2ca92b8948a423ab169826e62907c05?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A2
-Lavorativo (per iPad)
-Cloze in 5 minuti, passato prossimo o imperfetto...
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/771ff0ece3034832beea271ce69da64e?themeId=50&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Lavorativo (per iPad)
-Cloze passato prossimo e imperfetto e preposizioni
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/771ff0ece3034832beea271ce69da64e?themeId=50&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Lavorativo (per iPad)
-Cloze tecnologico
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/cbf5f9dec3cc42fcaf48b2f47cd9f682?themeId=41&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Lavorativo (per iPad)
-Come candidarsi per una nuova opportunità lavorativa
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/f1551cd602324bba86220df7b5dfa0ca?themeId=4&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Lavorativo (per iPad)
-E-mail lavorativa richiesta appuntamento
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/d785f90d27e64f8a93fa84e2c79701cb?themeId=44&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Lavorativo (per iPad)
-Lettera formale commerciale
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/6f19e6550221406f977a1490cf674348?themeId=4&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Lavorativo (per iPad)
-Lettera formale commerciale confermare un appuntamento
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/4c1ec22a1a3e4919af08346c65671a80?themeId=4&templateId=36&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Lavorativo (per iPad)
-Proposta commerciale
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/070233e35ab54edea477a831fba88fd5?themeId=4&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+Verbi
+Riordina la sequenza
+Esegui questo gioco per esercitarti ad organizzare le frasi in italiano
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/5ba8f2d42970446ba23ec462cd280e2b?themeId=44&templateId=72&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A2 Extra 
 Articoli
 Se ha l'accento finale non cambia! Prova...
@@ -735,20 +800,10 @@ Essere o avere - ausiliari-doppi
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/d046aae6995b446787a76133e4a1210d?themeId=43&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 B1
-Verbi (per iPad)
-Taboo al contrario. Essere o avere - ausiliari doppi 
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/da43de9671c444f1a4257960aa77353f?themeId=3&templateId=2&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-B1
 Verbi
 I se vogliono i sassi si sa!
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/b8fea118543f409e8643c3975c3850e6?themeId=1&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-B1
-Verbi (per iPad)
-Il participio passato dei verbi irregolari
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/0b7efdc21cd342919cb70ae44e6ae88c?themeId=50&templateId=3&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 B1
 Verbi
 Le desinenze del congiuntivo non cambiano -ERE-IRE
@@ -759,11 +814,16 @@ Verbi
 Se fossi un pomodoro....
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/7c1f04625c7e467290b7be9a31de4305?themeId=1&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-B1 Extra
-Proverbi
-Se sei italiano dici...
+B1
+Verbi (per iPad)
+Taboo al contrario. Essere o avere - ausiliari doppi 
 Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/da781ca9f03b47748e9a341cb24f97dd?themeId=52&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/da43de9671c444f1a4257960aa77353f?themeId=3&templateId=2&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+B1
+Verbi (per iPad)
+Il participio passato dei verbi irregolari
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/0b7efdc21cd342919cb70ae44e6ae88c?themeId=50&templateId=3&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 B1 Extra
 Conversazione
 Sei una persona diretta?
@@ -790,10 +850,25 @@ Come risponderesti?
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/fd746d8c72fd46ec86180e0b99db1acc?themeId=41&templateId=70&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 B1 Extra
+Lavorativo (per iPad)
+Attività didattica commerciale (Carte a caso)
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/a2f9a47452a44d4bb861919d3e617b13?themeId=2&templateId=70&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+B1 Extra
+Lavorativo (per iPad)
+Attività didattica commerciale (Ruota della fortuna)
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/0d964495027e457b92d1ec206cfe3c49?themeId=43&templateId=8&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+B1 Extra
 Pronomi
 Pronomi combinati...che potete combinare?
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/473bb7fc30fc487887a74661d72b3b57?themeId=54&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+B1 Extra
+Proverbi
+Se sei italiano dici...
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/da781ca9f03b47748e9a341cb24f97dd?themeId=52&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 B1 Extra
 Verbi
 ll Gerundio
@@ -809,21 +884,6 @@ Andare
 Se sei italiano dici...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/5d259638702442e49f5f4687b9557250?themeId=48&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-B1 Extra
-Lavorativo (per iPad)
-Attività didattica commerciale (Carte a caso)
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/a2f9a47452a44d4bb861919d3e617b13?themeId=2&templateId=70&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-B1 Extra
-Lavorativo (per iPad)
-Attività didattica commerciale (Ruota della fortuna)
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/0d964495027e457b92d1ec206cfe3c49?themeId=43&templateId=8&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-B2 Extra
-Conversazione
-Attività commerciale. Esercitati col lessico...
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/a2f9a47452a44d4bb861919d3e617b13?themeId=2&templateId=70&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 B2
 I suoni in italiano (per iPad)
 Metti le parole nella posizione corretta...
@@ -839,6 +899,11 @@ Lavorativo (per iPad)
 Cloze tecnologico...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/cbf5f9dec3cc42fcaf48b2f47cd9f682?themeId=41&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+B2 Extra
+Conversazione
+Attività commerciale. Esercitati col lessico...
+Esegui questo gioco per esercitarti nella grammatica italiana.
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/a2f9a47452a44d4bb861919d3e617b13?themeId=2&templateId=70&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 Cultura
 Giuseppe Verdi
 Giuseppe Verdi - biografia e opera "La Traviata"
@@ -850,77 +915,12 @@ Giuseppe Verdi - biografia ed opera "IL Nabucco"
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/2968a1d6f7494ea8a0710fbca0424ba5?themeId=4&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 Cultura Extra
-Proverbi
-Se sei italiano dici...
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/da781ca9f03b47748e9a341cb24f97dd?themeId=52&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Verbi
-Che cosa fanno? Riordina...
-Esegui questo gioco mettendo in sequenza le parole
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/02db1548abe04833ac47bed5040b190c?themeId=45&templateId=72&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Proverbi
-Se sei italiano dici...
-Esegui questo gioco se vuoi imparare a parlare come un italiano
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/c83fc8468ac1486fb4e77bdf147ad33d?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Negazione
-Anche o neanche?
-Esegui questo gioco per esercitarti a negare in italiano
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/7bac9e1619bd4da99a7e354f056a357b?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Il tempo
-Come misuri il tempo che passa?
-Esegui questo gioco per esercitarti nel parlare del tempo
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/5bc2342f659e424ea779d479fb45eff4?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1 Extra
-Conversazione
-Il calendario perpetuo
-Esegui questo gioco per esercitarti nel conversare
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/6a89d25667324ec889cc76a1249fd8ed?themeId=46&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Il tempo
-Conosci i mesi in italiano? Mettiti alla prova...
-Esegui questo gioco per imparare i mesi dell'anno
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/9ed8ea7306954cbfab8be805d4fdc877?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-Cultura Extra
 Indovinelli
 Indovina indovinello...
 Esegui questo gioco per esercitarti a parlare come un vero italiano
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/ec43d15c4b9348d2a2941d823bdeead2?themeId=41&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Articoli
-La regola della e finale non c'è? Che problema c'è!
-Esegui questo gioco intuitivo per memorizzare facilmente le eccezioni di genere
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/6d858bea24b9470a9f58a35963b0fa7c?themeId=43&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Verbi
-Mi piace anche o neanche?
-Esegui questo gioco per esercitarti nella grammatica italiana
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/d059839ced0f458c8448dfcca77eac47?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Il tempo
-Che ora è? Che ore sono?
-Esegui questo gioco se vuoi chiedere l'ora in Italia
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/0e5245634e4d40cebd4d4682a67efef4?themeId=46&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Verbi
-Devi, vuoi, puoi?
-Esegui questo gioco per esercitarti con i verbi modali
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/4e81dcb6eca0409f90a75bb10014ea37?themeId=1&templateId=36&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Verbi
-Riordina la sequenza
-Esegui questo gioco per esercitarti ad organizzare le frasi in italiano
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/5ba8f2d42970446ba23ec462cd280e2b?themeId=44&templateId=72&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1 Extra
-Conversazione
-Sì, viaggiare
-Esegui questo gioco per esercitarti nella grammatica italiana
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/320284228ddf4edc9310270461af848c?themeId=48&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1 Extra
-Conversazione
-Una parola o forse due in italiano
+Cultura Extra
+Proverbi
+Se sei italiano dici...
 Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/966ea63c37fd4dee9003adf4621aa4cc?themeId=48&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/da781ca9f03b47748e9a341cb24f97dd?themeId=52&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
