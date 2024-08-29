@@ -1,4 +1,4 @@
-1.14
+1.15
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -129,8 +129,8 @@ I suoni in italiano
 L'alfabeto dei verbi in italiano. Collega...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/7f200e9bcf7b4af188fd08e7cde4ca14?themeId=44&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Il tempo
+A1 
+Il tempo (per iPad)
 Quanti ne abbiamo oggi? Clicca...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/b8898e8048744011ae02647b2d071fb1?themeId=62&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
