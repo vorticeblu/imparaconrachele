@@ -1,4 +1,4 @@
-1.15
+1.16
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -919,3 +919,8 @@ Proverbi
 Se sei italiano dici...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/da781ca9f03b47748e9a341cb24f97dd?themeId=52&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Conversazione
+Al mercato compro...
+Esegui questo gioco per esercitarti con i pronomi personali diretti (Akkusativ)
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/8e84105ce56a4fa0b17ac36287bd5379?themeId=52&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
