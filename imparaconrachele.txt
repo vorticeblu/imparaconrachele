@@ -1,4 +1,4 @@
-1.17
+1.18
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -6,7 +6,7 @@ Esegui questo gioco per esercitarti a descrivere oggetti e persone
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/1f35a146aff546dca1adc8816547f08d?themeId=46&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
 Aggettivi
-Cosa è questo/a?
+Cosa è questo\a?
 Esegui questo gioco per imparare ad utilizzare correttamente gli aggettivi dimostrativi
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/2af0fb2700864ff19f47a0ae99c7f53d?themeId=1&templateId=46&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
