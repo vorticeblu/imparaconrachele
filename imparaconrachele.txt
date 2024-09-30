@@ -1,4 +1,4 @@
-1.21
+1.22
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -85,21 +85,21 @@ Dov'è? Indovina la posizione...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/b4a91cfa12a14780a49829b81da6c3dd?themeId=62&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Avverbi
+Pronomi
 Particelle pronominali riflessive. Indovina...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/57465a8b14b64fd5aaf71120b77bffe6?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
+A1 Extra
 Conversazione
 Il taboo al contrario..."Non solo lavoro"
 Esegui questo gioco per esercitarti a parlare al ristorante
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/f829883a31b6452faa6e9baaba5cba87?themeId=41&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
+A1 Extra
 Conversazione
 Le parole "false amiche". Crea la tua frase comica...
 Esegui questo gioco per esercitarti nell'uso delle parole simili
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/112ff40abc06446897621c6e11a51909?themeId=48&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
+A1 Extra
 Conversazione
 Al mercato compro...
 Esegui questo gioco per esercitarti con i pronomi personali diretti (Akkusativ)
@@ -221,7 +221,7 @@ Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/4411263720f0457587cc44020df631f8?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
 Preposizioni (per iPad)
-Il taboo al contrario. Collega...
+Il Taboo al contrario. Collega...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/7dea92cb23af4c05b23b5f15482b0e72?themeId=48&templateId=2&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
@@ -244,7 +244,7 @@ Pronomi
 Avete domande?
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/279b5c772c964b899c2e282c7454e217?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
+B1
 Pronomi
 Che? Cui? Chi? Quando si usano?
 Esegui questo gioco per esercitarti nella grammatica italiana.
@@ -325,21 +325,21 @@ Esserci o non esserci...questo è il problema
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/3bd5a34fe01e4166847d50cf09dbe2b7?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
-Verbi
+Verbi (per iPad)
 Giochiamo al taboo settore commerciale...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/49753d958e034cf190606eadfdd7adcd?themeId=4&templateId=2&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
+A1 Extra
 Verbi
 Imparate solo questi 4 verbi irregolari su 4000 in -ARE:
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/fcb41ef5327140ac965f377fdebe6526?themeId=43&templateId=8&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
+A1 Extra
 Verbi
 Imparate solo questi 6 verbi irregolari in ISC su 500 regolari in -IRE
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/2d50c690f9024c0884b21151437f5d26?themeId=43&templateId=8&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
+A1 Extra
 Verbi
 Imparate solo questi 8 verbi irregolari su 500 in -ERE :
 Esegui questo gioco per esercitarti nella grammatica italiana.
@@ -549,9 +549,9 @@ Presentarsi
 Interrogativi
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/5b9e579c03b34e41a5366306305ba242?themeId=1&templateId=8&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1 Extra
-Se sei italiano dici
-Modi di dire: andare
+Cultura Extra
+Modi di dire
+Se sei italiano dici...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/3d5c333448954c7484f0c948ebffa91f?themeId=48&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1 Extra
@@ -604,7 +604,7 @@ Domande
 Quali sono i giorni della settimana? Indovina...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/184775cff57c4c3d9562e0c42557feb6?themeId=51&templateId=8&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
+B1
 Aggettivi
 Aggettivi indefiniti. Scegli...
 Esegui questo gioco per esercitarti nella grammatica italiana.
@@ -794,8 +794,8 @@ Andare
 Ci vai o ci vieni? Scegli...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/91178b31cb4b4d23bb141f233aee3f99?themeId=21&templateId=69&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-B1
 Cultura
+Libri
 Conosci "Il piccolo Principe"...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/a5e49f35b7c24fffa88510d953c77039?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
@@ -884,7 +884,7 @@ Pronomi
 Pronomi combinati...che potete combinare?
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/473bb7fc30fc487887a74661d72b3b57?themeId=54&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-B1 Extra
+Cultura Extra
 Proverbi
 Se sei italiano dici...
 Esegui questo gioco per esercitarti nella grammatica italiana.
@@ -899,8 +899,8 @@ Andare
 C'è gente che va e gente che viene...io resto!
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/c0fce854a88e4e5db60fcfd08bab8e49?themeId=51&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-B1 Extra 
-Andare
+Cultura Extra 
+Proverbi
 Se sei italiano dici...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/5d259638702442e49f5f4687b9557250?themeId=48&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
