@@ -1,4 +1,4 @@
-1.22
+1.24
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -474,8 +474,8 @@ Domande
 C'è o ci sono e rispondi alla domanda...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/5676b1c6ecac4f0d87e2100a8aedd25e?themeId=4&templateId=8&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1 Extra
-I suoni in italiano
+B1 Extra
+Lavorativo
 Esercitati a rispondere...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/fd746d8c72fd46ec86180e0b99db1acc?themeId=41&templateId=70&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
@@ -709,37 +709,37 @@ Quiz ortografici
 I plurali -co / -go / -ca / -ga
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/7d1ffc86181846fd92ac02be7549adb8?themeId=43&templateId=5&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Verbi
+A2 Extra
+Verbi (per iPad)
 Stare + Gerundio. Intuisci la regola...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/404c30bec98646d2917331b1558cfaac?themeId=43&templateId=8&fontStackId=12" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
-Verbi
+A2 Extra
+Verbi (per iPad)
 "Mentre" usiamo l'imperfetto "parliamo Sempre" al passato prossimo? 
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/b688f6a272de4b088e5f8de09635e53c?themeId=41&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A2
-Verbi
+Verbi (per iPad)
 Dall'infinito al participio...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/77756fdd3f214abeba379a2cf292d758?themeId=41&templateId=3&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A2
-Verbi
+Verbi (per iPad)
 Essere o avere è sempre un problema!
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/b38b979bdeb64fefa1b77043e961cf99?themeId=43&templateId=8&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
+A2 Extra
 Verbi
 Essere o avere? Questo è il problema...usali entrambi!!!
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/af936b8a991e4d9d8a7a9e231abbc1fe?themeId=50&templateId=3&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
+A2 Extra
 Verbi
 Gerundiando
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/a7155a76baa0416db0815bf072f3506a?themeId=46&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
+A2 Extra
 Verbi
 I verbi modali al passato...essere o avere?
 Esegui questo gioco per esercitarti nella grammatica italiana.
@@ -759,10 +759,10 @@ Verbi
 Participio passato verbi irregolari
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/47f55645300a45bf9624d391de1f8ffc?themeId=43&templateId=3&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A2
+A2 Extra
 Verbi
-Passato prossimo e imperfetto
-Esegui questo gioco per esercitarti nella grammatica italiana.
+Passato prossimo e imperfetto? Questo è il problema!
+Esegui questo gioco per esercitarti a capire la logica che ci sta dietro.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/90a866a165db4316a0dc85e511bddcd7?themeId=48&templateId=70&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A2
 Verbi
