@@ -1,4 +1,4 @@
-1.25
+1.26
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -944,3 +944,8 @@ Proverbi
 Se sei italiano dici...
 Esegui questo gioco per esercitarti nella grammatica italiana.
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/da781ca9f03b47748e9a341cb24f97dd?themeId=52&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Quiz
+Siamo andati al cinema
+Esegui questo gioco per testare la tua comprensione del film visto al cinema "Volare"
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/e01bfa17a71646e8a3ab13c211ba1d5f?themeId=53&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
