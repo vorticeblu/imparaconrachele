@@ -1,4 +1,4 @@
-1.26
+1.27
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -164,11 +164,6 @@ Negazione
 Anche o neanche?
 Esegui questo gioco per esercitarti a negare in italiano
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/7bac9e1619bd4da99a7e354f056a357b?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1
-Numeri
-Che ore sono? Che ora è?
-Esegui questo gioco per esercitarti nella grammatica italiana.
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/0e5245634e4d40cebd4d4682a67efef4?themeId=46&templateId=30&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1
 Numeri
 Collegare correttamente i numeri da 1-20
@@ -589,11 +584,6 @@ Avverbi
 Quanto spesso/raramente vai...
 Esegui questo gioco per esercitarti ad utilizzare gli avverbi di frequenza
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/e93d39107f1c44b49bd3740e2e9046d5?themeId=42&templateId=8&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
-A1 Extra 
-Conversazione
-Cos'è questo? Crea una frase...
-Esegui questo gioco per usare gli aggettivi dimostrativi
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/1e3b385c5bfe48f7b63a36b9523f562e?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
 A1 Extra 
 Domande
 Che cosa hai fatto di bello nel fine settimana? Chiedilo a te stesso o a un tuo compagno
