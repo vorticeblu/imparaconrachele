@@ -1,4 +1,4 @@
-1.29
+1.31
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -924,3 +924,13 @@ Cultura
 Che Italia sarebbe senza la Nutella? 
 Esegui questo quiz per conoscere la Ferrero multinazionale italiana
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/3d17a570aa3342268199135833b783a4?themeId=48&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Libri
+La fiamma in cucina
+Esegui questo gioco per provare la tua comprensione del libro "La fiamma in cucina"
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/263b76fc3c084c8ea3829bf766262191?themeId=1&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A2
+Cultura
+L'alfabeto delle invenzioni italiane
+Esegui questo gioco per imparare l'alfabeto italiano e le nostre invenzioni
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/f6d995631aaf43e8bf4248dddf4f737a?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
