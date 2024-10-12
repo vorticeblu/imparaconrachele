@@ -1,4 +1,4 @@
-1.31
+1.32
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -934,3 +934,8 @@ Cultura
 L'alfabeto delle invenzioni italiane
 Esegui questo gioco per imparare l'alfabeto italiano e le nostre invenzioni
 <iframe style="max-width:100%" src="https://wordwall.net/it/embed/f6d995631aaf43e8bf4248dddf4f737a?themeId=1&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+A1
+Cultura
+L'alfabeto delle marche italiane
+Esegui questo gioco per imparare l'alfabeto italiano attraverso i brand italiani più famosi al mondo
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/33c2a753b2bb4ec1bde8c5e69d8f0792?themeId=4&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
