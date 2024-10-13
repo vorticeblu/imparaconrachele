@@ -1,4 +1,4 @@
-1.32
+1.33
 A1
 Aggettivi
 Abbigliamento e colori. Clicca...
@@ -938,4 +938,4 @@ A1
 Cultura
 L'alfabeto delle marche italiane
 Esegui questo gioco per imparare l'alfabeto italiano attraverso i brand italiani più famosi al mondo
-<iframe style="max-width:100%" src="https://wordwall.net/it/embed/33c2a753b2bb4ec1bde8c5e69d8f0792?themeId=4&templateId=46&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+<iframe style="max-width:100%" src="https://wordwall.net/it/embed/bf28ba14f7eb48ecbac0c6e14fdcc25c?themeId=4&templateId=5&fontStackId=21" width="500" height="380" frameborder="0" allowfullscreen></iframe>
